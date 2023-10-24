@@ -19,7 +19,6 @@ The questions will be divided into 3 sections i,e, A, B, and C respectively wher
 
 2) Here is one trivia for all of you if you solved all the weekly quizzes then there is a high probability that some questions will directly come from weekly quizzes.
 
-## 📌 Important topics for the exam🤔
 
 
 
