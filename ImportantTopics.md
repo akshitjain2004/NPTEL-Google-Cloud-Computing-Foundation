@@ -6,4 +6,6 @@
 - Global Infrastructure (Global, Region, Zonal) and their resources
 - GCP Console
 - Cloud SDK (gcloud,gsutil,bq)
-  
+
+  # Week 2
+  - 
