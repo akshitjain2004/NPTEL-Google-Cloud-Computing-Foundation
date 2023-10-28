@@ -1,0 +1,1 @@
+![screencapture-drive-google-file-d-1Pg-BXo87CjF1lVs3YbrYLrFmVzBSIJeC-view-2023-10-28-10_49_28](https://github.com/akshitjain2004/NPTEL-Google-Cloud-Computing-Foundation/assets/94056853/ad65ebb2-5ba9-42af-a62a-0dfde9ca799c)
